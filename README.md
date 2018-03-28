@@ -5,6 +5,6 @@ Following parts I'll cover in this resporiatory.
 
 2) Hough_Transform (connect the most likely edges and draw them an given line on it).
 
-3)Hough_Transform_Quadrilateral (That may change different edges lines into one more likely lane).
+3) Hough_Transform_Quadrilateral (That may change different edges lines into one more likely lane).
 
 4) color_Region (That change the lane into your given color and that color identified by your autonomous car).
