@@ -26,7 +26,7 @@ The `color_Region` notebook applies color to the detected lanes, highlighting th
 
 1. **Clone this repository** to your local machine:
    ```bash
-   git clone https://github.com/imumarfarooq/Lane_Detection/
+   git clone https://github.com/imumarfarooq/Autonomous-Lane-Detection-and-Mapping
 2. **jupyter notebook**:
 Open the desired notebook (Canny_Edge.ipynb, Hough_Transform.ipynb, Hough_Transform_Quadrilateral.ipynb, or color_Region.ipynb) in your browser.
 
